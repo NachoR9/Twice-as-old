@@ -1,0 +1,22 @@
+{
+  "name": "twice-as-old",
+  "version": "1.0.0",
+  "description": "Escribe una función que calcula en cuántos años tendrá el doble de edad el padre o cuantos años han pasado desde que tuvo el doble.",
+  "main": "twice.js",
+  "scripts": {
+    "test": "Vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachoR9/Twice-as-old.git"
+  },
+  "author": "Nacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachoR9/Twice-as-old/issues"
+  },
+  "homepage": "https://github.com/NachoR9/Twice-as-old#readme",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
